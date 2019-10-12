@@ -36,7 +36,7 @@ namespace rb Apache.Hadoop.Hbase.Thrift
 namespace py hbase
 namespace perl Hbase
 namespace php Hbase
-namespace csharp Apache.Hadoop.Hbase.Thrift
+namespace netstd Apache.Hadoop.Hbase.Thrift
 
 //
 // Types
